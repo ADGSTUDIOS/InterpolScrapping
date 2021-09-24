@@ -7,7 +7,7 @@ Used to scrap and take advantage of Interpol databases
 Red Notices are issued for fugitives wanted either for prosecution or to serve a sentence. A Red Notice is a request to law enforcement worldwide to locate and provisionally arrest a person pending extradition, surrender, or similar legal action.
 
 #### About Dataset
-This dataset consists of 200000+ records from all over the world.
+This dataset consists of 200000+ records from all over the world. Database is already scrapped you can view it @ InterpolScrapping.csv and download it.
 
 #### Instructions to run
 - Run this notebook in Google Colab using the link below
