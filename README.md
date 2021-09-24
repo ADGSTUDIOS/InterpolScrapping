@@ -3,7 +3,7 @@
 # InterpolScrapping
 Used to scrap and take advantage of Interpol databases
 
-<img src="https://colab.research.google.com/github/ADGSTUDIOS/InterpolScrapping/blob/main/interpolscrapping.ipynb" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg">
+<a href="https://colab.research.google.com/github/ADGSTUDIOS/InterpolScrapping/blob/main/interpolscrapping.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Interactive Demo"/></a>
 
 ## What is this dataset about?
 Red Notices are issued for fugitives wanted either for prosecution or to serve a sentence. A Red Notice is a request to law enforcement worldwide to locate and provisionally arrest a person pending extradition, surrender, or similar legal action.
